@@ -69,7 +69,7 @@ I’m a French Roblox developer, passionate about building game systems, clean c
 ## 📬 Contact
 
 - Discord : *[Takie](https://discord.com/users/1462613476672405734)*
-- Twitter / X: *https://x.com/Taakiiee*
+- Twitter / X : *https://x.com/Taakiiee*
 
 ---
 
