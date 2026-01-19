@@ -68,9 +68,9 @@ I’m a French Roblox developer, passionate about building game systems, clean c
 
 ## 📬 Contact
 
-- GitHub: *(this profile)*
-- Twitter / X: *(add later if needed)*
-- Roblox: *(profile or game link to add)*
+- GitHub: *https://github.com/Taakiee*
+- Twitter / X: *https://x.com/Taakiiee*
+- Roblox: *https://www.roblox.com/users/9184220122/profile*
 
 ---
 
