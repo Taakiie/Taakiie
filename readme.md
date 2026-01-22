@@ -10,10 +10,10 @@ I’m a French Roblox developer, passionate about building game systems, clean c
 - **Primary Language:** Luau (Roblox-optimized Lua)
 - **Code Editor:** Visual Studio Code (Rojo)
 - **Core Interests:**
-  - Modular architecture (ModuleScripts)
+  - Modular architecture
   - Secure server-side systems
   - Performance optimization
-  - Game systems (combat, dash, data, spawners, UI)
+  - Game systems
 
 - **Development Approach:**
   - Clear Client / Server separation
